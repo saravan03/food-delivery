@@ -1,0 +1,21 @@
+{
+  "api": {
+    "url": "http://www.localhost:3000",
+    "host": "localhost",
+    "port": 3000
+  },
+  "pagination": {
+    "items_per_page": 10
+  },
+  "mail": {
+    "domain": "api.jumbly.org",
+    "api_key": "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",
+    "from": "apps@ileafsolutions.com",
+    "cc": "saravanan.c@ileafsolutions.net"
+  },
+  "cryptSecret": "foodSecretOrder123",
+  "JwtKey": "foodOrderAccess123",
+  "AccessTokenExpiry": "15h",
+  "JwtRefreshKey": "foodOrderRefresh123",
+  "RefreshTokenExpiry": "15d"
+}
